@@ -1,4 +1,4 @@
-my_project/poetry.lock
+poetry.lock
 .idea
 __pycache__/
 .DS_Store
